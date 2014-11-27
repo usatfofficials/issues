@@ -5,4 +5,4 @@ This site will let you view the status of feature requests and bugs with the USA
 
 To view the current issues, please click on the "Issues" link on the right or go to [https://github.com/usatfofficials/issues/issues](https://github.com/usatfofficials/issues/issues).
 
-If you would like to contribute to the feature requests and bug list, please email [stu28bu@gmail.com](Jimmy Stuart at stu28bu@gmail.com).
+If you would like to contribute to the feature requests and bug list, please email [Jimmy Stuart at stu28bu@gmail.com](mailto:stu28bu@gmail.com).
